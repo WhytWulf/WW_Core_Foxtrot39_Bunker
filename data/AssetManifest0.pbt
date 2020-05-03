@@ -34,3 +34,12 @@ Assets {
     AssetId: "CORESKY_Sky"
   }
 }
+Assets {
+  Id: 1159454183067146157
+  Name: "Concrete Panels 02"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_gen_concrete_panels_002"
+  }
+}
