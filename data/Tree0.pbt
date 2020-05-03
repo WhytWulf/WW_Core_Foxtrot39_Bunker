@@ -24,6 +24,19 @@ Objects {
   ChildIds: 9596746209898025979
   ChildIds: 10238525791571297949
   ChildIds: 9914769706609942068
+  ChildIds: 3535506520825657096
+  ChildIds: 3198845467471116058
+  ChildIds: 791769964407101553
+  ChildIds: 5471141103688567414
+  ChildIds: 7529246675921894488
+  ChildIds: 14408591876651519662
+  ChildIds: 13426355090163610318
+  ChildIds: 17949399205578225395
+  ChildIds: 14717612271131271328
+  ChildIds: 6738758532184606296
+  ChildIds: 8872917893816375767
+  ChildIds: 8146380952320429264
+  ChildIds: 2333058942049642438
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33,6 +46,720 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 2333058942049642438
+  Name: "Ring - Quarter Thin"
+  Transform {
+    Location {
+      X: -425
+      Y: 2200
+      Z: 625
+    }
+    Rotation {
+      Pitch: -39.9998207
+      Yaw: -179.999893
+      Roll: -95.0000458
+    }
+    Scale {
+      X: 5.75000048
+      Y: 6
+      Z: 2.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 132672053610873933
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0199999809
+        G: 0.00357615598
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9872804595100424981
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8146380952320429264
+  Name: "Ring - Quarter Thin"
+  Transform {
+    Location {
+      X: 1050
+      Y: 2225
+      Z: 625
+    }
+    Rotation {
+      Pitch: -54.9998169
+      Yaw: -179.999893
+      Roll: -95.000061
+    }
+    Scale {
+      X: 5
+      Y: 6
+      Z: 2.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 132672053610873933
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0199999809
+        G: 0.00357615598
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9872804595100424981
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 8872917893816375767
+  Name: "Ring - Quarter Thin"
+  Transform {
+    Location {
+      X: 1100
+      Y: 2200
+      Z: 625
+    }
+    Rotation {
+      Pitch: -39.9998169
+      Yaw: -179.999893
+      Roll: -95.000061
+    }
+    Scale {
+      X: 5.75000048
+      Y: 6
+      Z: 2.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 132672053610873933
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0199999809
+        G: 0.00357615598
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9872804595100424981
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 6738758532184606296
+  Name: "Ring - Quarter Thin"
+  Transform {
+    Location {
+      X: 650
+      Y: 2225
+      Z: 625
+    }
+    Rotation {
+      Pitch: -54.9998169
+      Yaw: -179.999893
+      Roll: -95.000061
+    }
+    Scale {
+      X: 5
+      Y: 6
+      Z: 2.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 132672053610873933
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0199999809
+        G: 0.00357615598
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9872804595100424981
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14717612271131271328
+  Name: "Ring - Quarter Thin"
+  Transform {
+    Location {
+      X: 700
+      Y: 2200
+      Z: 625
+    }
+    Rotation {
+      Pitch: -39.9998169
+      Yaw: -179.999893
+      Roll: -95.000061
+    }
+    Scale {
+      X: 5.75000048
+      Y: 6
+      Z: 2.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 132672053610873933
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0199999809
+        G: 0.00357615598
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9872804595100424981
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 17949399205578225395
+  Name: "Ring - Quarter Thin"
+  Transform {
+    Location {
+      X: 275
+      Y: 2225
+      Z: 625
+    }
+    Rotation {
+      Pitch: -54.9998169
+      Yaw: -179.999893
+      Roll: -95.000061
+    }
+    Scale {
+      X: 5
+      Y: 6
+      Z: 2.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 132672053610873933
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0199999809
+        G: 0.00357615598
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9872804595100424981
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 13426355090163610318
+  Name: "Ring - Quarter Thin"
+  Transform {
+    Location {
+      X: 325
+      Y: 2200
+      Z: 625
+    }
+    Rotation {
+      Pitch: -39.9998169
+      Yaw: -179.999893
+      Roll: -95.000061
+    }
+    Scale {
+      X: 5.75000048
+      Y: 6
+      Z: 2.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 132672053610873933
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0199999809
+        G: 0.00357615598
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9872804595100424981
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 14408591876651519662
+  Name: "Ring - Quarter Thin"
+  Transform {
+    Location {
+      X: -100
+      Y: 2225
+      Z: 625
+    }
+    Rotation {
+      Pitch: -54.9998169
+      Yaw: -179.999893
+      Roll: -95.000061
+    }
+    Scale {
+      X: 5
+      Y: 6
+      Z: 2.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 132672053610873933
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0199999809
+        G: 0.00357615598
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9872804595100424981
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 7529246675921894488
+  Name: "Ring - Quarter Thin"
+  Transform {
+    Location {
+      X: -50
+      Y: 2200
+      Z: 625
+    }
+    Rotation {
+      Pitch: -39.9998169
+      Yaw: -179.999893
+      Roll: -95.000061
+    }
+    Scale {
+      X: 5.75000048
+      Y: 6
+      Z: 2.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 132672053610873933
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0199999809
+        G: 0.00357615598
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9872804595100424981
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5471141103688567414
+  Name: "Ring - Quarter Thin"
+  Transform {
+    Location {
+      X: -225
+      Y: 2375
+      Z: 650
+    }
+    Rotation {
+      Pitch: -39.9998169
+      Yaw: 99.999939
+      Roll: -95.000061
+    }
+    Scale {
+      X: 5.75000048
+      Y: 6
+      Z: 2.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 132672053610873933
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0199999809
+        G: 0.00357615598
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9872804595100424981
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 791769964407101553
+  Name: "Ring - Quarter Thin"
+  Transform {
+    Location {
+      X: -475
+      Y: 2225
+      Z: 625
+    }
+    Rotation {
+      Pitch: -54.9998169
+      Yaw: -179.999893
+      Roll: -95.000061
+    }
+    Scale {
+      X: 5
+      Y: 6
+      Z: 2.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 132672053610873933
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.0199999809
+        G: 0.00357615598
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9872804595100424981
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3198845467471116058
+  Name: "Ring 01"
+  Transform {
+    Location {
+      X: -275
+      Y: 1975
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13610778410671543982
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 3535506520825657096
+  Name: "Ring - Thin"
+  Transform {
+    Location {
+      X: -350
+      Y: 2000
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 50174553928924045
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
   }
 }
 Objects {
