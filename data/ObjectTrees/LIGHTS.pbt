@@ -67,7 +67,7 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Light {
-    Intensity: 6
+    Intensity: 1.5
     Color {
       R: 1
       G: 0.822516561
@@ -161,7 +161,7 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Light {
-    Intensity: 6
+    Intensity: 1.5
     Color {
       R: 1
       G: 0.822516561
@@ -255,7 +255,7 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Light {
-    Intensity: 6
+    Intensity: 1.5
     Color {
       R: 1
       G: 0.822516561
@@ -349,7 +349,7 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Light {
-    Intensity: 6
+    Intensity: 1.5
     Color {
       R: 1
       G: 0.822516561
@@ -443,7 +443,7 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Light {
-    Intensity: 6
+    Intensity: 1.5
     Color {
       R: 1
       G: 0.822516561
@@ -537,7 +537,7 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Light {
-    Intensity: 6
+    Intensity: 1.5
     Color {
       R: 1
       G: 0.822516561
@@ -631,7 +631,7 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Light {
-    Intensity: 6
+    Intensity: 1.5
     Color {
       R: 1
       G: 0.822516561
@@ -725,7 +725,7 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Light {
-    Intensity: 6
+    Intensity: 1.5
     Color {
       R: 1
       G: 0.822516561
@@ -819,7 +819,7 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Light {
-    Intensity: 6
+    Intensity: 1.5
     Color {
       R: 1
       G: 0.822516561
@@ -913,7 +913,7 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Light {
-    Intensity: 6
+    Intensity: 1.5
     Color {
       R: 1
       G: 0.822516561
@@ -1007,7 +1007,7 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Light {
-    Intensity: 6
+    Intensity: 1.5
     Color {
       R: 1
       G: 0.822516561
@@ -1101,7 +1101,7 @@ Objects {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
   Light {
-    Intensity: 6
+    Intensity: 1.5
     Color {
       R: 1
       G: 0.822516561
