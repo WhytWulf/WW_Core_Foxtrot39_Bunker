@@ -142,6 +142,7 @@ Objects {
   ChildIds: 838407782158076049
   ChildIds: 7021903847413571836
   ChildIds: 7675658932156827947
+  ChildIds: 12891568294793982021
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -150,6 +151,86 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 12891568294793982021
+  Name: "DNAspiralSFX"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 14171706704959401520
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4708729743260015878
+      value {
+        Overrides {
+          Name: "bp:color"
+          Color {
+            G: 0.460000038
+            B: 0.0670199096
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7366072781393769573
+      value {
+        Overrides {
+          Name: "bp:color"
+          Color {
+            R: 0.676821172
+            G: 1
+            B: 0.39
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10767424040181434583
+      value {
+        Overrides {
+          Name: "Name"
+          String: "DNAspiralSFX"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -175
+            Y: -25
+            Z: 25
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.322169691
+            Y: 0.322169691
+            Z: 0.322169691
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6658875310477654690
+    }
   }
 }
 Objects {
@@ -606,6 +687,7 @@ Objects {
   ChildIds: 1877186741844967304
   ChildIds: 14425438841908263871
   ChildIds: 11859449433750715436
+  ChildIds: 8179891074196342830
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -614,6 +696,93 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 8179891074196342830
+  Name: "DNAspiralSFX"
+  Transform {
+    Location {
+      X: -300
+      Y: 2325
+      Z: 25
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.322169691
+      Y: 0.322169691
+      Z: 0.322169691
+    }
+  }
+  ParentId: 4820925213913060918
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4708729743260015878
+      value {
+        Overrides {
+          Name: "bp:color"
+          Color {
+            R: 0.61
+            G: 0.852781415
+            B: 1
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7366072781393769573
+      value {
+        Overrides {
+          Name: "bp:color"
+          Color {
+            R: 0.183708578
+            B: 0.73
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10767424040181434583
+      value {
+        Overrides {
+          Name: "Name"
+          String: "DNAspiralSFX"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -50
+            Y: -25
+            Z: 25
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.322169691
+            Y: 0.322169691
+            Z: 0.322169691
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6658875310477654690
+    }
   }
 }
 Objects {
@@ -1069,6 +1238,7 @@ Objects {
   ChildIds: 16121678903686355315
   ChildIds: 6057496025234616861
   ChildIds: 13306370057131264507
+  ChildIds: 7042218579078759453
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1077,6 +1247,92 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+}
+Objects {
+  Id: 7042218579078759453
+  Name: "DNAspiralSFX"
+  Transform {
+    Location {
+      X: -1375
+      Y: 2325
+      Z: 25
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.322169691
+      Y: 0.322169691
+      Z: 0.322169691
+    }
+  }
+  ParentId: 7358839544958672427
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4708729743260015878
+      value {
+        Overrides {
+          Name: "bp:color"
+          Color {
+            R: 0.669999957
+            G: 0.465894043
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7366072781393769573
+      value {
+        Overrides {
+          Name: "bp:color"
+          Color {
+            R: 0.820000052
+            G: 0.0162913837
+            A: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10767424040181434583
+      value {
+        Overrides {
+          Name: "Name"
+          String: "DNAspiralSFX"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 75
+            Y: -25
+            Z: 25
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.322169691
+            Y: 0.322169691
+            Z: 0.322169691
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6658875310477654690
+    }
   }
 }
 Objects {
