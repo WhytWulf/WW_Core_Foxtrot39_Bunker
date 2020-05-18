@@ -125,7 +125,7 @@ Objects {
         }
         Overrides {
           Name: "bp:Intensity"
-          Float: 0.146717325
+          Float: 3.01377106
         }
         Overrides {
           Name: "bp:Tint Color"
@@ -158,6 +158,27 @@ Objects {
             B: 0.399000019
             A: 1
           }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8090713207782208821
+      value {
+        Overrides {
+          Name: "bp:Intensity"
+          Float: 0.5
+        }
+        Overrides {
+          Name: "bp:Cast Volumetric Shadows"
+          Bool: true
+        }
+        Overrides {
+          Name: "bp:Indirect Lighting Intensity"
+          Float: 1.33788502
+        }
+        Overrides {
+          Name: "bp:Volumetric Intensity"
+          Float: 2.11991143
         }
       }
     }
@@ -207,7 +228,29 @@ Objects {
         }
         Overrides {
           Name: "bp:Star Brightness "
-          Float: 0.777164698
+          Float: 2
+        }
+        Overrides {
+          Name: "bp:Star Color Cycle"
+          Float: 7.69047642
+        }
+        Overrides {
+          Name: "bp:Star Color Intensity"
+          Float: 0.25
+        }
+        Overrides {
+          Name: "bp:Color Gradient"
+          Enum {
+            Value: "mc:ecolorgradients:10"
+          }
+        }
+        Overrides {
+          Name: "bp:Real Stars"
+          Bool: true
+        }
+        Overrides {
+          Name: "bp:Twinkle"
+          Bool: true
         }
       }
     }
@@ -280,6 +323,10 @@ Objects {
             B: 0.0979814604
             A: 1
           }
+        }
+        Overrides {
+          Name: "bp:Brightness"
+          Float: 0.666593373
         }
       }
     }

@@ -6,6 +6,7 @@ Objects {
   Transform {
     Location {
       X: 225
+      Y: -45
     }
     Rotation {
       Pitch: 4.09811328e-05
@@ -63,12 +64,13 @@ Objects {
   Name: "Street Utility Box 01"
   Transform {
     Location {
-      X: 75
+      X: 60
+      Y: -35
       Z: 50
     }
     Rotation {
-      Pitch: -4.98077154
-      Yaw: -73.682045
+      Pitch: -4.98077393
+      Yaw: -73.6820374
       Roll: 60.3780022
     }
     Scale {
@@ -123,11 +125,12 @@ Objects {
   Transform {
     Location {
       X: -125
+      Y: -20
       Z: 75
     }
     Rotation {
       Pitch: 4.78113216e-05
-      Yaw: -99.9998245
+      Yaw: -99.9998169
       Roll: 89.9997711
     }
     Scale {
